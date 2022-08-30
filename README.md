@@ -4,10 +4,10 @@
 
 GraphQL is a query language API, and most of the applications today have their data hosted on a remote server in a database. The API only has to give an interace to put away information that meets application requirements.
 
-![GraphQL vs REST](https://www.mobilelive.ca/wp-content/uploads/2022/08/GraphQL_Image1.jpg])
+![GraphQL vs REST](https://www.mobilelive.ca/wp-content/uploads/2022/08/GraphQL_Image1.jpg)
 ![GraphQL vs REST](https://www.mobilelive.ca/wp-content/uploads/2022/08/GraphQL_Image3.jpg)
 
-![GraphQL vs REST](https://www.mobilelive.ca/blog/graphql-vs-rest-what-you-didnt-know#:~:text=GraphQL%20organized%20in%20terms%20of,data%20with%20multiple%20API%20calls)
+[GraphQL vs. REST: What You Didn't Know - mobileLIVE inc](https://www.mobilelive.ca/blog/graphql-vs-rest-what-you-didnt-know#:~:text=GraphQL%20organized%20in%20terms%20of,data%20with%20multiple%20API%20calls)
 
 ## SETUP
 
